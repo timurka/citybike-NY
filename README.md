@@ -12,9 +12,9 @@
 3. Подключение БД к DataLens и создание дашборда
 
 ### Источники данных
-* [Citi Bike Trip Histories](https://ride.citibikenyc.com/system-data)
-* [NYC REAL TIME TRAFFIC SPEED DATA FEED(ARCHIVED) FIVE MINUTE INTERVALS](https://data.beta.nyc/dataset/nyc-real-time-traffic-speed-data-feed-archived)
-* [NOAA](https://www.ncei.noaa.gov/cdo-web/)
+* [Citi Bike Trip Histories](https://ride.citibikenyc.com/system-data) - данные аренды велосипедов Citibike
+* [NYC REAL TIME TRAFFIC SPEED DATA FEED(ARCHIVED) FIVE MINUTE INTERVALS](https://data.beta.nyc/dataset/nyc-real-time-traffic-speed-data-feed-archived) - данные о трафики, архив с интервалами 5 минут
+* [NOAA](https://www.ncei.noaa.gov/cdo-web/) - данные о погоде
 
 ### Используемые библиотеки
 pandas, numpy, seaborn, matplotlib, scipy, glob, os, geopy.distance, sqlalchemy, pymysql
