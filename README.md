@@ -7,9 +7,9 @@
 * Построить дашборд в DataLens с основными показателями и выводами
 
 ### Технические этапы проделанной работы
-1. Предобработка и склеивание датасетов + небольшая EDA через google colab.
+1. Предобработка и склеивание датасетов + небольшая EDA через [google colab](https://github.com/timurka/citybike-NY/blob/main/citibike_NY.ipynb).
 2. Загрузка данных в БД MySQL на удалённый сервер
-3. Подключение БД к DataLens и создание дашборда
+3. Подключение БД к DataLens и создание [дашборда](https://datalens.yandex.ru/3oe7x2bnzxtcu-dashboard-ny-bike?tab=1M)
 
 ### Источники данных
 * [Citi Bike Trip Histories](https://ride.citibikenyc.com/system-data) - данные аренды велосипедов Citibike
