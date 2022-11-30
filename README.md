@@ -26,10 +26,10 @@ pandas, numpy, seaborn, matplotlib, scipy, glob, os, geopy.distance, sqlalchemy,
 [Готовый дашборд с выводами (DataLens)](https://datalens.yandex.ru/3oe7x2bnzxtcu-dashboard-ny-bike?tab=1M)
 
 ### Вкладка "Общее"
-![](https://github.com/timurka/citybike-NY/blob/main/dashboard-screenshots/dashboard_main.png?raw=true)
+![](https://github.com/timurka/citybike-NY/blob/main/dashboard_screenshots/dashboard1_main.png?raw=true)
 
 ### Вкладка "Погода и трафик"
-![](https://github.com/timurka/citybike-NY/blob/main/dashboard-screenshots/dashboard_weather.png?raw=true)
+![](https://github.com/timurka/citybike-NY/blob/main/dashboard_screenshots/dashboard_weather.png?raw=true)
 
 ### Вкладка "На карте"
-![](https://github.com/timurka/citybike-NY/blob/main/dashboard-screenshots/dashboard_maps.png?raw=true)
+![](https://github.com/timurka/citybike-NY/blob/main/dashboard_screenshots/dashboard_map.png?raw=true)
