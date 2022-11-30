@@ -13,7 +13,7 @@
 
 ### Источники данных
 * [Citi Bike Trip Histories](https://ride.citibikenyc.com/system-data) - данные аренды велосипедов Citibike
-* [NYC REAL TIME TRAFFIC SPEED DATA FEED(ARCHIVED) FIVE MINUTE INTERVALS](https://data.beta.nyc/dataset/nyc-real-time-traffic-speed-data-feed-archived) - данные о трафики, архив с интервалами 5 минут
+* [NYC REAL TIME TRAFFIC SPEED DATA FEED(ARCHIVED) FIVE MINUTE INTERVALS](https://data.beta.nyc/dataset/nyc-real-time-traffic-speed-data-feed-archived) - данные о скорости трафика на основных дорогах. Архив с интервалами 5 минут
 * [NOAA](https://www.ncei.noaa.gov/cdo-web/) - данные о погоде
 
 ### Используемые библиотеки
