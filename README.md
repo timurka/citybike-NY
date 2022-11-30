@@ -11,3 +11,7 @@
 Как выглядит дашборд
 -------------------------
 ![](https://github.com/timurka/citybike-NY/blob/main/dashboard-screenshots/dashboard_main.png?raw=true)
+
+![](https://github.com/timurka/citybike-NY/blob/main/dashboard-screenshots/dashboard_weather.png?raw=true)
+
+![](https://github.com/timurka/citybike-NY/blob/main/dashboard-screenshots/dashboard_maps.png?raw=true)
