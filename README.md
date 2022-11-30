@@ -19,6 +19,8 @@
 ### Используемые библиотеки
 pandas, numpy, seaborn, matplotlib, scipy, glob, os, geopy.distance, sqlalchemy, pymysql
 
+[Посмотреть Jupyter notebook проекта](https://github.com/timurka/citybike-NY/blob/main/citibike_NY.ipynb) 
+
 Как выглядит дашборд
 -------------------------
 [Готовый дашборд с выводами (DataLens)](https://datalens.yandex.ru/3oe7x2bnzxtcu-dashboard-ny-bike?tab=1M)
